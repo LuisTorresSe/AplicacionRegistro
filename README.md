@@ -9,6 +9,8 @@ Pagina de inición de sesión
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a2ca974d-379f-43de-99f5-bb0fb6e65fdb" />
 
 Pagina de perfil del usuario
+
+
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/09db987e-3340-4d49-95c8-f30407d0e552" />
 
 
